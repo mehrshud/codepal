@@ -1,0 +1,59 @@
+# Byte-compiled Python files
+*.py[cod]
+*$_pycache_/
+*.py[cod]
+
+# TensorFlow logs and checkpoints
+tf_logs/
+checkpoints/
+model_ckt/
+
+# React files
+build/
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+.editorconfig
+
+# Operating system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environment files
+env/
+venv/
+*.egg-info
+
+# Package and distribution files
+*.egg
+*.tar.gz
+dist/
+*.whl
+
+# Log files
+*.log
+logs/
+
+# Data files
+data/
+dataset/
+
+# Miscellaneous
+__pycache__/
+pip-wheel-metadata/
+pip-debug.txt
+*.tmp
+*.*.swp
+*.*.swo
+*.git
+
+# TensorFlow and React specific
+.tensorflow/
+react-scripts/
